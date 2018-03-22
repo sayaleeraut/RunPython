@@ -1,0 +1,4 @@
+cho "Hello"
+echo "Namaskar"
+                                                                                                                                             
+                 
